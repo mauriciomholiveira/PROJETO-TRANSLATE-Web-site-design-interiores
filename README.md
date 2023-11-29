@@ -31,3 +31,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou envi
 ## Licença
 
 Este projeto está sob a [Licença MIT](https://opensource.org/licenses/MIT) - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+# Print da page
+
+![screencapture-127-0-0-1-5500-index-html-2023-11-29-19_18_07](https://github.com/mauriciomholiveira/PROJETO-TRANSLATE-Web-site-design-interiores/assets/99220549/007f1455-c670-4c2b-b8bf-439e634081fa)
+
